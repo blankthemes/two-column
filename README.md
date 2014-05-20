@@ -29,6 +29,10 @@ If you are new to using Ghost, we recommend checking out the following:
  * Switching Themes: http://docs.ghost.org/themes/
  * Publishing with Ghost: http://docs.ghost.org/usage/writing/
 
+## Make Two Column your own Ghost theme
+
+The purpose of Two Column is to make it easy for anyone to create a Ghost theme.
+
 ## Changing Sidebar Position
 
 If you check out the `layouts` directory, we have included styling to position the sidebar either to the left of the primary content or to the right. Choosing between left or right sidebar does not interfere with responsive styling.
